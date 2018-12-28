@@ -1,0 +1,2 @@
+time -e | ./***** 
+//check work time
